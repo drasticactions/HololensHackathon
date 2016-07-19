@@ -3,7 +3,7 @@
         <UnityInstallationDir>C:\Program Files\Unity HoloLens 5.4.0b24-HTP\Editor</UnityInstallationDir>
         <UnityWSAPlayerDir>C:\Program Files\Unity HoloLens 5.4.0b24-HTP\Editor\Data\PlaybackEngines\MetroSupport</UnityWSAPlayerDir>
         <UnityWSAToolsDir>$(SolutionDir)Unity\Tools</UnityWSAToolsDir>
-        <UnityProjectDir>C:\Users\t_mil\Documents\Apps\HololensHackathon</UnityProjectDir>
+        <UnityProjectDir>C:\Users\t_mil\Documents\App\HololensHackathon</UnityProjectDir>
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     </PropertyGroup>
 </Project>

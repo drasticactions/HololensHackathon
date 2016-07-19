@@ -5,9 +5,9 @@
 # Write a line equal to 'overwrite-all' (without quotes) to overwrite everything (preserved accross builds)
 # Write a line equal to 'keep-all' (without quotes) to keep files regardless their modification (preserved accross builds)
 # Default behavior is to never overwrite files
-HololensHackathon.sln: DEDA282D309A2DA36DB41342867AA739
+HololensHackathon.sln: 178992C8F4C5E60C795DB034DEFB741D
 HololensHackathon\App.cs: 1D277058EEEE64AD6F0E8EEE4AB3919E
-HololensHackathon\HololensHackathon.csproj: 480381033BC44626BA75F3C1DB71F185
+HololensHackathon\HololensHackathon.csproj: 359893B5A76E7F548529FFCDF89A2CAA
 HololensHackathon\HololensHackathon.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
 HololensHackathon\Package.appxmanifest: 0848A99D7D2E942F909403CD0585ED29
 HololensHackathon\project.json: 1D02BC64BAC0D041019673A1C4C51737

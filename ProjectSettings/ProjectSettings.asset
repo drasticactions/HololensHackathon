@@ -340,11 +340,11 @@ PlayerSettings:
     14: 
   metroPackageName: HololensHackathon
   metroPackageVersion: 
-  metroCertificatePath: C:\Users\t_mil\Documents\Apps\HololensHackathon\Assets\WSATestCertificate.pfx
+  metroCertificatePath: Assets/WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany
-  metroCertificateNotAfter: 8078e28db9fed201
+  metroCertificateNotAfter: 80afe912bd00d301
   metroApplicationDescription: HololensHackathon
   wsaImages: {}
   metroTileShortName: 
